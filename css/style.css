@@ -1,0 +1,29 @@
+body{
+	background-color: #ff5be1 
+
+}
+
+main{
+	font-family: oswald;
+}
+
+a{
+	font-size: 30px;
+	color:#3fa2ff;
+}
+
+.box{
+	width: 79px;
+	background-color: white;
+}
+
+.box2 {
+	width: 100px;
+	background-color: white;
+}
+
+.box3{
+	height: 40px;
+	width:  200px;
+	background-color: white;
+}
